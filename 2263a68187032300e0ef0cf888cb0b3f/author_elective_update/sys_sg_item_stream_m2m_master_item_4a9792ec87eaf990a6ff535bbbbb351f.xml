@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="DELETE">
+        <item_stream display_value="My Change Item Stream">7d179aec87eaf990a6ff535bbbbb35f6</item_stream>
+        <master_item display_value="Change Main Item">2747daec87eaf990a6ff535bbbbb350b</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>GC5698</sys_created_by>
+        <sys_created_on>2023-11-13 15:12:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4a9792ec87eaf990a6ff535bbbbb351f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Catalog for mobile" source="sn_scmobile">2263a68187032300e0ef0cf888cb0b3f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_4a9792ec87eaf990a6ff535bbbbb351f</sys_update_name>
+        <sys_updated_by>GC5698</sys_updated_by>
+        <sys_updated_on>2023-11-13 15:12:48</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</application>
+        <file_path/>
+        <instance_id>c0c3bb986f094a801a75a9cc5d3ee423</instance_id>
+        <instance_name>galileedev</instance_name>
+        <name>sys_sg_item_stream_m2m_master_item_4a9792ec87eaf990a6ff535bbbbb351f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item"><sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE"><item_stream display_value="My Change Item Stream">7d179aec87eaf990a6ff535bbbbb35f6</item_stream><master_item display_value="Change Main Item">2747daec87eaf990a6ff535bbbbb350b</master_item><sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name><sys_created_by>GC5698</sys_created_by><sys_created_on>2023-11-13 15:12:48</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>4a9792ec87eaf990a6ff535bbbbb351f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Service Catalog for mobile" source="sn_scmobile">2263a68187032300e0ef0cf888cb0b3f</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</sys_scope><sys_update_name>sys_sg_item_stream_m2m_master_item_4a9792ec87eaf990a6ff535bbbbb351f</sys_update_name><sys_updated_by>GC5698</sys_updated_by><sys_updated_on>2023-11-13 15:12:48</sys_updated_on></sys_sg_item_stream_m2m_master_item></record_update>]]></payload>
+        <payload_hash>1717496195</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b18ed3ae875ab550a6ff535bbbbb350d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>GC5698</sys_created_by>
+        <sys_created_on>2023-11-13 15:12:48</sys_created_on>
+        <sys_id>869792ec87eaf990a6ff535bbbbb3522</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bc93e0b9e0000001</sys_recorded_at>
+        <sys_updated_by>GC5698</sys_updated_by>
+        <sys_updated_on>2023-11-13 15:12:48</sys_updated_on>
+        <type>Stream M2M item config</type>
+        <update_guid>869792ec77eaf990259d07886f375f21</update_guid>
+        <update_guid_history>869792ec77eaf990259d07886f375f21:1717496195</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>GC5698</sys_created_by>
+        <sys_created_on>2023-11-13 15:13:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_item_stream_m2m_master_item">sys_sg_item_stream_m2m_master_item</sys_db_object>
+        <sys_id>04214e1d62a849cb8e99d57c88485cf1</sys_id>
+        <sys_metadata>4a9792ec87eaf990a6ff535bbbbb351f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Catalog for mobile" source="sn_scmobile">2263a68187032300e0ef0cf888cb0b3f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</sys_scope>
+        <sys_scope_delete display_value="">4c2945391a094e4bbca6123e71607d81</sys_scope_delete>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_4a9792ec87eaf990a6ff535bbbbb351f</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_stream_m2m_master_item_4a9792ec87eaf990a6ff535bbbbb351f">869792ec87eaf990a6ff535bbbbb3522</sys_update_version>
+        <sys_updated_by>GC5698</sys_updated_by>
+        <sys_updated_on>2023-11-13 15:13:32</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</claim_owner_scope>
+        <claim_timestamp>18bd85368040000001</claim_timestamp>
+        <metadata_update_name>sys_sg_item_stream_m2m_master_item_4a9792ec87eaf990a6ff535bbbbb351f</metadata_update_name>
+        <previous_claim_app_version>27.0.1</previous_claim_app_version>
+        <previous_claim_name>Service Catalog for mobile</previous_claim_name>
+        <previous_claim_scope>2263a68187032300e0ef0cf888cb0b3f</previous_claim_scope>
+        <sys_created_by>GF5039</sys_created_by>
+        <sys_created_on>2023-11-16 13:30:26</sys_created_on>
+        <sys_id>80fc91a5876ab110a6ff535bbbbb35d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>GF5039</sys_updated_by>
+        <sys_updated_on>2023-11-16 13:30:26</sys_updated_on>
+    </sys_claim>
+</record_update>

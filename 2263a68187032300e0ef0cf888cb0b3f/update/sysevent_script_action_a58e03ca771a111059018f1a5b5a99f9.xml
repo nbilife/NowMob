@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_script_action">
+    <sysevent_script_action action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition_script>event.parm1 == 'sn_scmobile'</condition_script>
+        <description/>
+        <event_name>plugin.upgraded</event_name>
+        <name>Service catalog mobile upgrade</name>
+        <order>100</order>
+        <script><![CDATA[var upgradeTool = new sn_scmobile.CatalogMobileUpgradeTools();
+upgradeTool.cleanUpgradeCardViews();
+upgradeTool.cleanUpgradeInputFormScreen();
+
+//De activate the script once it is completed the execution
+
+var gr = new GlideRecord("sysevent_script_action");
+gr.addQuery("sys_id", "a58e03ca771a111059018f1a5b5a99f9");
+gr.query();
+if (gr.next()) {
+    gr.setValue("active", false);
+    gr.update();
+}]]></script>
+        <synchronous>false</synchronous>
+        <sys_class_name>sysevent_script_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 08:39:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a58e03ca771a111059018f1a5b5a99f9</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Service catalog mobile upgrade</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Service Catalog for mobile" source="sn_scmobile">2263a68187032300e0ef0cf888cb0b3f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</sys_scope>
+        <sys_update_name>sysevent_script_action_a58e03ca771a111059018f1a5b5a99f9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-14 03:16:28</sys_updated_on>
+    </sysevent_script_action>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</claim_owner_scope>
+        <claim_timestamp>18bd85367ea0000001</claim_timestamp>
+        <metadata_update_name>sysevent_script_action_a58e03ca771a111059018f1a5b5a99f9</metadata_update_name>
+        <previous_claim_app_version>27.0.1</previous_claim_app_version>
+        <previous_claim_name>Service Catalog for mobile</previous_claim_name>
+        <previous_claim_scope>2263a68187032300e0ef0cf888cb0b3f</previous_claim_scope>
+        <sys_created_by>GF5039</sys_created_by>
+        <sys_created_on>2023-11-16 13:30:26</sys_created_on>
+        <sys_id>c4fc91a5876ab110a6ff535bbbbb35d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>GF5039</sys_updated_by>
+        <sys_updated_on>2023-11-16 13:30:26</sys_updated_on>
+    </sys_claim>
+</record_update>

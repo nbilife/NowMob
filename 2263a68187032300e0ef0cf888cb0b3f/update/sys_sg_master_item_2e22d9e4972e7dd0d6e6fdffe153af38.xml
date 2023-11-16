@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <datasource_table>problem</datasource_table>
+        <datasource_table_condition table="problem">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </datasource_table_condition>
+        <embedded_screen display_value="My Request">7516f9d787232300e0ef0cf888cb0b4d</embedded_screen>
+        <item_view/>
+        <name>problem</name>
+        <screen/>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>GF5039</sys_created_by>
+        <sys_created_on>2023-11-13 10:09:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2e22d9e4972e7dd0d6e6fdffe153af38</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>problem</sys_name>
+        <sys_package display_value="Service Catalog for mobile" source="sn_scmobile">2263a68187032300e0ef0cf888cb0b3f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</sys_scope>
+        <sys_update_name>sys_sg_master_item_2e22d9e4972e7dd0d6e6fdffe153af38</sys_update_name>
+        <sys_updated_by>GC5698</sys_updated_by>
+        <sys_updated_on>2023-11-13 10:19:20</sys_updated_on>
+        <table/>
+        <use_view_config>true</use_view_config>
+        <view_config/>
+    </sys_sg_master_item>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</claim_owner_scope>
+        <claim_timestamp>18bd85368990000001</claim_timestamp>
+        <metadata_update_name>sys_sg_master_item_2e22d9e4972e7dd0d6e6fdffe153af38</metadata_update_name>
+        <previous_claim_app_version>27.0.1</previous_claim_app_version>
+        <previous_claim_name>Service Catalog for mobile</previous_claim_name>
+        <previous_claim_scope>2263a68187032300e0ef0cf888cb0b3f</previous_claim_scope>
+        <sys_created_by>GF5039</sys_created_by>
+        <sys_created_on>2023-11-16 13:30:26</sys_created_on>
+        <sys_id>c0fc91a5876ab110a6ff535bbbbb35e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>GF5039</sys_updated_by>
+        <sys_updated_on>2023-11-16 13:30:26</sys_updated_on>
+    </sys_claim>
+</record_update>

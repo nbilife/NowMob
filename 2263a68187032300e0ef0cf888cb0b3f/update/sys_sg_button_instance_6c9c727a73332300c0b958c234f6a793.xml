@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <button display_value="Reject RITM with comment">00dc367a73332300c0b958c234f6a706</button>
+        <color_theme>destructive</color_theme>
+        <description>Approval_RITM_details_screen_func_instance_reject</description>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Reject</label>
+        <location>footer</location>
+        <name>Approval RITM  Reject</name>
+        <order>1</order>
+        <parent>c0fdec5673332300c0b958c234f6a730</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-27 07:34:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6c9c727a73332300c0b958c234f6a793</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Approval RITM  Reject</sys_name>
+        <sys_package display_value="Service Catalog for mobile" source="sn_scmobile">2263a68187032300e0ef0cf888cb0b3f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</sys_scope>
+        <sys_update_name>sys_sg_button_instance_6c9c727a73332300c0b958c234f6a793</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-14 03:16:28</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</claim_owner_scope>
+        <claim_timestamp>18bd85368480000001</claim_timestamp>
+        <metadata_update_name>sys_sg_button_instance_6c9c727a73332300c0b958c234f6a793</metadata_update_name>
+        <previous_claim_app_version>27.0.1</previous_claim_app_version>
+        <previous_claim_name>Service Catalog for mobile</previous_claim_name>
+        <previous_claim_scope>2263a68187032300e0ef0cf888cb0b3f</previous_claim_scope>
+        <sys_created_by>GF5039</sys_created_by>
+        <sys_created_on>2023-11-16 13:30:26</sys_created_on>
+        <sys_id>44fc91a5876ab110a6ff535bbbbb35d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>GF5039</sys_updated_by>
+        <sys_updated_on>2023-11-16 13:30:26</sys_updated_on>
+    </sys_claim>
+</record_update>

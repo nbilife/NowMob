@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="DELETE">
+        <item_stream display_value="My Change Item Stream">7d179aec87eaf990a6ff535bbbbb35f6</item_stream>
+        <segment display_value="My Request Stream Segment">c1c2e52787332300e0ef0cf888cb0bcd</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>GC5698</sys_created_by>
+        <sys_created_on>2023-11-13 15:14:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>aee79a20872ef990a6ff535bbbbb3582</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Catalog for mobile" source="sn_scmobile">2263a68187032300e0ef0cf888cb0b3f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_aee79a20872ef990a6ff535bbbbb3582</sys_update_name>
+        <sys_updated_by>GC5698</sys_updated_by>
+        <sys_updated_on>2023-11-13 15:14:29</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</application>
+        <file_path/>
+        <instance_id>c0c3bb986f094a801a75a9cc5d3ee423</instance_id>
+        <instance_name>galileedev</instance_name>
+        <name>sys_sg_item_stream_m2m_segment_aee79a20872ef990a6ff535bbbbb3582</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment"><sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE"><item_stream display_value="My Change Item Stream">7d179aec87eaf990a6ff535bbbbb35f6</item_stream><segment display_value="My Request Stream Segment">c1c2e52787332300e0ef0cf888cb0bcd</segment><sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name><sys_created_by>GC5698</sys_created_by><sys_created_on>2023-11-13 15:14:29</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>aee79a20872ef990a6ff535bbbbb3582</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Service Catalog for mobile" source="sn_scmobile">2263a68187032300e0ef0cf888cb0b3f</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</sys_scope><sys_update_name>sys_sg_item_stream_m2m_segment_aee79a20872ef990a6ff535bbbbb3582</sys_update_name><sys_updated_by>GC5698</sys_updated_by><sys_updated_on>2023-11-13 15:14:29</sys_updated_on></sys_sg_item_stream_m2m_segment></record_update>]]></payload>
+        <payload_hash>-81993106</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b18ed3ae875ab550a6ff535bbbbb350d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>GC5698</sys_created_by>
+        <sys_created_on>2023-11-13 15:14:29</sys_created_on>
+        <sys_id>faf7d660872ef990a6ff535bbbbb358c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bc93f96d30000001</sys_recorded_at>
+        <sys_updated_by>GC5698</sys_updated_by>
+        <sys_updated_on>2023-11-13 15:14:29</sys_updated_on>
+        <type>Stream M2M segment</type>
+        <update_guid>f6f79a208f2ef99012e447579ee68186</update_guid>
+        <update_guid_history>f6f79a208f2ef99012e447579ee68186:-81993106</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>GC5698</sys_created_by>
+        <sys_created_on>2023-11-13 15:14:44</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_item_stream_m2m_segment">sys_sg_item_stream_m2m_segment</sys_db_object>
+        <sys_id>386e3109ee7541678f6d0bd84fc7a3a9</sys_id>
+        <sys_metadata>aee79a20872ef990a6ff535bbbbb3582</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Catalog for mobile" source="sn_scmobile">2263a68187032300e0ef0cf888cb0b3f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</sys_scope>
+        <sys_scope_delete display_value="">4c2945391a094e4bbca6123e71607d81</sys_scope_delete>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_aee79a20872ef990a6ff535bbbbb3582</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_stream_m2m_segment_aee79a20872ef990a6ff535bbbbb3582">faf7d660872ef990a6ff535bbbbb358c</sys_update_version>
+        <sys_updated_by>GC5698</sys_updated_by>
+        <sys_updated_on>2023-11-13 15:14:44</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</claim_owner_scope>
+        <claim_timestamp>18bd85368720000001</claim_timestamp>
+        <metadata_update_name>sys_sg_item_stream_m2m_segment_aee79a20872ef990a6ff535bbbbb3582</metadata_update_name>
+        <previous_claim_app_version>27.0.1</previous_claim_app_version>
+        <previous_claim_name>Service Catalog for mobile</previous_claim_name>
+        <previous_claim_scope>2263a68187032300e0ef0cf888cb0b3f</previous_claim_scope>
+        <sys_created_by>GF5039</sys_created_by>
+        <sys_created_on>2023-11-16 13:30:26</sys_created_on>
+        <sys_id>0cfc91a5876ab110a6ff535bbbbb35dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>GF5039</sys_updated_by>
+        <sys_updated_on>2023-11-16 13:30:26</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="My Problem Item Stream">c9f52f2287dab550a6ff535bbbbb3538</item_stream>
+        <segment display_value="My Request Stream Segment">c1c2e52787332300e0ef0cf888cb0bcd</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>GF5039</sys_created_by>
+        <sys_created_on>2023-11-07 16:23:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>361ee7e6871eb550a6ff535bbbbb357f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Catalog for mobile" source="sn_scmobile">2263a68187032300e0ef0cf888cb0b3f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_361ee7e6871eb550a6ff535bbbbb357f</sys_update_name>
+        <sys_updated_by>GF5039</sys_updated_by>
+        <sys_updated_on>2023-11-07 16:23:30</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Service Catalog for mobile">2263a68187032300e0ef0cf888cb0b3f</claim_owner_scope>
+        <claim_timestamp>18bd85368320000001</claim_timestamp>
+        <metadata_update_name>sys_sg_item_stream_m2m_segment_361ee7e6871eb550a6ff535bbbbb357f</metadata_update_name>
+        <previous_claim_app_version>27.0.1</previous_claim_app_version>
+        <previous_claim_name>Service Catalog for mobile</previous_claim_name>
+        <previous_claim_scope>2263a68187032300e0ef0cf888cb0b3f</previous_claim_scope>
+        <sys_created_by>GF5039</sys_created_by>
+        <sys_created_on>2023-11-16 13:30:26</sys_created_on>
+        <sys_id>04fc91a5876ab110a6ff535bbbbb35d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>GF5039</sys_updated_by>
+        <sys_updated_on>2023-11-16 13:30:26</sys_updated_on>
+    </sys_claim>
+</record_update>
